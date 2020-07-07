@@ -1,3 +1,3 @@
-# Vehicle-Motion-Tracking
+# Object-Motion-Tracking
 
 Motion tracking camera to track vehicle/object movement. 
